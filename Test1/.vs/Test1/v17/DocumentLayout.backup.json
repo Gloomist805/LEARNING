@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c_test\\Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3550FB32-C763-4F5A-89FB-9DFBC84546A8}|Test1\\Test1.vcxproj|E:\\c_test\\Test1\\Test1\\ADDfunction1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3550FB32-C763-4F5A-89FB-9DFBC84546A8}|Test1\\Test1.vcxproj|solutionrelative:Test1\\ADDfunction1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ADDfunction1.c",
+              "DocumentMoniker": "E:\\c_test\\Test1\\Test1\\ADDfunction1.c",
+              "RelativeDocumentMoniker": "Test1\\ADDfunction1.c",
+              "ToolTip": "E:\\c_test\\Test1\\Test1\\ADDfunction1.c",
+              "RelativeToolTip": "Test1\\ADDfunction1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-11T13:38:24.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

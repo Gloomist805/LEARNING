@@ -1,0 +1,3 @@
+﻿  指针.c
+E:\c_test\learning\指针0\指针0\指针.c(11,7): warning C4047: “初始化”:“char”与“char [2]”的间接级别不同
+  指针0.vcxproj -> E:\c_test\learning\指针0\x64\Debug\指针0.exe
