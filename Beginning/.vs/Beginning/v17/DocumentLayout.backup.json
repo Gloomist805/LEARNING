@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c_test\\Beginning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{648BDD16-E065-4830-BD6E-1DC12AA366C6}|Beginning\\Beginning.vcxproj|E:\\c_test\\Beginning\\Beginning\\beginning.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{648BDD16-E065-4830-BD6E-1DC12AA366C6}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\beginning.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "beginning.c",
+              "DocumentMoniker": "E:\\c_test\\Beginning\\Beginning\\beginning.c",
+              "RelativeDocumentMoniker": "Beginning\\beginning.c",
+              "ToolTip": "E:\\c_test\\Beginning\\Beginning\\beginning.c",
+              "RelativeToolTip": "Beginning\\beginning.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-12T07:45:36.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
