@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LEARNING\\for\u5FAA\u73AF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF150A5-07AA-4102-81C1-445DB4444127}|for\u5FAA\u73AF\\for\u5FAA\u73AF.vcxproj|E:\\LEARNING\\for\u5FAA\u73AF\\for\u5FAA\u73AF\\for.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CF150A5-07AA-4102-81C1-445DB4444127}|for\u5FAA\u73AF\\for\u5FAA\u73AF.vcxproj|solutionrelative:for\u5FAA\u73AF\\for.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "for.c",
+              "DocumentMoniker": "E:\\LEARNING\\for\u5FAA\u73AF\\for\u5FAA\u73AF\\for.c",
+              "RelativeDocumentMoniker": "for\u5FAA\u73AF\\for.c",
+              "ToolTip": "E:\\LEARNING\\for\u5FAA\u73AF\\for\u5FAA\u73AF\\for.c*",
+              "RelativeToolTip": "for\u5FAA\u73AF\\for.c*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-19T01:31:55.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
