@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LEARNING\\do_while\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B57BB067-8041-41E8-A6F0-2F2921428FB9}|\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.vcxproj|E:\\LEARNING\\do_while\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B57BB067-8041-41E8-A6F0-2F2921428FB9}|\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.vcxproj|solutionrelative:\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.c",
+              "DocumentMoniker": "E:\\LEARNING\\do_while\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.c",
+              "RelativeDocumentMoniker": "\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.c",
+              "ToolTip": "E:\\LEARNING\\do_while\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.c*",
+              "RelativeToolTip": "\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570\\\u6709\u5E8F\u6570\u7EC4\u67E5\u627E\u6570.c*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAzwCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-21T08:36:11.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
