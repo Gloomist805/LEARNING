@@ -1,0 +1,3 @@
+﻿  字符汇聚.c
+E:\LEARNING\do_while\字符汇聚\字符汇聚\字符汇聚.c(9,27): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  字符汇聚.vcxproj -> E:\LEARNING\do_while\字符汇聚\x64\Debug\字符汇聚.exe

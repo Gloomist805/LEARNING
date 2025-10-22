@@ -1,0 +1,3 @@
+﻿  登录输密码.c
+E:\LEARNING\do_while\登录输密码\登录输密码\登录输密码.c(11,7): warning C4013: “strcmp”未定义；假设外部返回 int
+  登录输密码.vcxproj -> E:\LEARNING\do_while\登录输密码\x64\Debug\登录输密码.exe
