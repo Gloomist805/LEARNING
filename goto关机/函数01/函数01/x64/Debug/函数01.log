@@ -1,0 +1,4 @@
+﻿  函数01.c
+E:\LEARNING\函数function\函数01\函数01\函数01.c(6,2): warning C4013: “system”未定义；假设外部返回 int
+E:\LEARNING\函数function\函数01\函数01\函数01.c(10,6): warning C4013: “strcmp”未定义；假设外部返回 int
+  函数01.vcxproj -> E:\LEARNING\函数function\函数01\x64\Debug\函数01.exe
